@@ -1,0 +1,45 @@
+{
+	"name": "absurd-processors",
+	"displayName": "Absurd Processors",
+	"author": "bufomind",
+	"subtitle": "more powerful processors",
+	"version": "1.0",
+	"minGameVersion": "136",
+
+	"description": "Warning: May impact performance on less powerful devices!
+	
+	Introduces two new processors.
+
+	Absurd Processor:
+	Relatively balanced, next generation processor. 3x faster, 3x more health, and 33 more range than the Hyper Processor. Requires 3x the resources, 3x the Cryofluid, and infinitely more Plastanium (for the nice green color).
+
+	Clown Processor:
+	Honk Honk. The clown sees all and refuses to die.
+	5x faster than the Hyper Processor. Covers the entire map regardless of placement.
+	Costs a penny.
+
+	[Details]
+
+	Absurd Processor:
+	- Unlocked after Hyper Processor
+	- 1,560 Health
+	- 4x4 Size
+	- 75 Block Link Range
+	- 4,500 Instructions/Second
+	Cost:
+	- 1,300 Lead
+	- 225 Thorium
+	- 450 Silicon
+	- 150 Surge Alloy
+	- 50 Plastanium
+	- 14.4 Cryofluid/Second
+
+	Clown Processor:
+	- Unlocked after Core Shard
+	- 100,000 Health
+	- 1x1 Size
+	- 707.12 Block Link Range
+	- 7,500 Instructions/Second
+	Cost:
+	- 1 Copper"
+}
