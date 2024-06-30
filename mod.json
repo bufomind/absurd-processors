@@ -8,38 +8,32 @@
 
 	"description": "Warning: May impact performance on less powerful devices!
 	
-	Introduces two new processors.
+	Introduces five new processors. 2 balanced, 3 unbalanced.
 
 	Absurd Processor:
-	Relatively balanced, next generation processor. 3x faster, 3x more health, and 33 more range than the Hyper Processor. Requires 3x the resources, 3x the Cryofluid, and infinitely more Plastanium (for the nice green color).
+	Relatively balanced, next generation processor.
+	3x faster, 3x more health, and 33 more range than the Hyper Processor.
+	Requires 3x the resources, 3x the Cryofluid, and ♾️x the Plastanium (for the nice green color).
+
+	Bizarre Processor:
+	Relatively balanced processor straight from the research lab.
+	Titanium antenna extends range to the entire map.
+	3x more health, 3x the cost, and the same speed as the Hyper Processor.
+
+	Eyeball Processor:
+	No link is too far.
+	No damage is too high.
+	Faster than the Logic Processor, slower than the Hyper Processor.
+	Covers the entire map regardless of placement. Costs a penny.
+
+	Planet Processor:
+	All lands are charted and all threats are thwarted.
+	2x faster than the Hyper Processor.
+	Covers the entire map regardless of placement. Costs a penny.
 
 	Clown Processor:
-	Honk Honk. The clown sees all and refuses to die.
-	5x faster than the Hyper Processor. Covers the entire map regardless of placement.
-	Costs a penny.
-
-	[Details]
-
-	Absurd Processor:
-	- Unlocked after Hyper Processor
-	- 1,560 Health
-	- 4x4 Size
-	- 75 Block Link Range
-	- 4,500 Instructions/Second
-	Cost:
-	- 1,300 Lead
-	- 225 Thorium
-	- 450 Silicon
-	- 150 Surge Alloy
-	- 50 Plastanium
-	- 14.4 Cryofluid/Second
-
-	Clown Processor:
-	- Unlocked after Core Shard
-	- 100,000 Health
-	- 1x1 Size
-	- 707.12 Block Link Range
-	- 7,500 Instructions/Second
-	Cost:
-	- 1 Copper"
+	Honk Honk.
+	The clown sees all and refuses to die.
+	5x faster than the Hyper Processor.
+	Covers the entire map regardless of placement. Costs a penny."
 }

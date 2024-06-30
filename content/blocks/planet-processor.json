@@ -1,0 +1,24 @@
+{
+    "type": "LogicBlock",
+    "category": "logic",
+    "placeSound": "ocean",
+    "health": 100000,
+    "size": 1,
+    "range": 5657,
+    "instructionsPerTick": 50,
+    "research": {
+        "parent": "core-shard",
+        "requirements": [
+            {
+                "item": "copper",
+                "amount": 1
+            }
+        ]
+    },
+    "requirements": [
+        {
+            "item": "copper",
+            "amount": 1
+        }
+    ]
+}
